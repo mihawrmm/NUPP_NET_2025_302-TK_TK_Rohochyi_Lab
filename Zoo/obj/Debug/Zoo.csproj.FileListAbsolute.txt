@@ -1,9 +1,0 @@
-C:\Users\LENOVO\Desktop\NUPP_NET_2025_302-TK_TK_Rohochyi_Lab\Zoo\bin\Debug\Zoo.dll
-C:\Users\LENOVO\Desktop\NUPP_NET_2025_302-TK_TK_Rohochyi_Lab\Zoo\bin\Debug\Zoo.pdb
-C:\Users\LENOVO\Desktop\NUPP_NET_2025_302-TK_TK_Rohochyi_Lab\Zoo\obj\Debug\Zoo.csproj.AssemblyReference.cache
-C:\Users\LENOVO\Desktop\NUPP_NET_2025_302-TK_TK_Rohochyi_Lab\Zoo\obj\Debug\Zoo.csproj.CoreCompileInputs.cache
-C:\Users\LENOVO\Desktop\NUPP_NET_2025_302-TK_TK_Rohochyi_Lab\Zoo\obj\Debug\Zoo.dll
-C:\Users\LENOVO\Desktop\NUPP_NET_2025_302-TK_TK_Rohochyi_Lab\Zoo\obj\Debug\Zoo.pdb
-C:\Users\LENOVO\Desktop\NUPP_NET_2025_302-TK_TK_Rohochyi_Lab\Zoo\bin\Debug\Newtonsoft.Json.dll
-C:\Users\LENOVO\Desktop\NUPP_NET_2025_302-TK_TK_Rohochyi_Lab\Zoo\bin\Debug\Newtonsoft.Json.xml
-C:\Users\LENOVO\Desktop\NUPP_NET_2025_302-TK_TK_Rohochyi_Lab\Zoo\obj\Debug\Zoo.csproj.Up2Date
