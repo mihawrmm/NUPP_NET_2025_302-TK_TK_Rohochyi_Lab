@@ -1,0 +1,12 @@
+C:\Users\Misha\Desktop\Animals.Infrastructure\obj\Debug\net8.0\Animals.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Misha\Desktop\Animals.Infrastructure\obj\Debug\net8.0\Animals.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misha\Desktop\Animals.Infrastructure\obj\Debug\net8.0\Animals.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Misha\Desktop\Animals.Infrastructure\obj\Debug\net8.0\Animals.Infrastructure.AssemblyInfo.cs
+C:\Users\Misha\Desktop\Animals.Infrastructure\obj\Debug\net8.0\Animals.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\Animals.Infrastructure\bin\Debug\net8.0\Animals.Infrastructure.deps.json
+C:\Users\Misha\Desktop\Animals.Infrastructure\bin\Debug\net8.0\Animals.Infrastructure.dll
+C:\Users\Misha\Desktop\Animals.Infrastructure\bin\Debug\net8.0\Animals.Infrastructure.pdb
+C:\Users\Misha\Desktop\Animals.Infrastructure\obj\Debug\net8.0\Animals.Infrastructure.dll
+C:\Users\Misha\Desktop\Animals.Infrastructure\obj\Debug\net8.0\refint\Animals.Infrastructure.dll
+C:\Users\Misha\Desktop\Animals.Infrastructure\obj\Debug\net8.0\Animals.Infrastructure.pdb
+C:\Users\Misha\Desktop\Animals.Infrastructure\obj\Debug\net8.0\ref\Animals.Infrastructure.dll

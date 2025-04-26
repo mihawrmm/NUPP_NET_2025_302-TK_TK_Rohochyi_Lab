@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{100AA273-D68F-41E3-BAE7-49A10F3384D8}|..\\Animals.ConsoleApp\\Animals.ConsoleApp.csproj|c:\\users\\misha\\desktop\\animals.consoleapp\\animals.db||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|c:\\users\\misha\\desktop\\animals.infrastructure\\repositories\\icrudserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|solutionrelative:repositories\\icrudserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AA273-D68F-41E3-BAE7-49A10F3384D8}|..\\Animals.ConsoleApp\\Animals.ConsoleApp.csproj|c:\\users\\misha\\desktop\\animals.consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|c:\\users\\misha\\desktop\\animals.infrastructure\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|solutionrelative:repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|c:\\users\\misha\\desktop\\animals.infrastructure\\repositories\\crudserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|solutionrelative:repositories\\crudserviceasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AA273-D68F-41E3-BAE7-49A10F3384D8}|..\\Animals.ConsoleApp\\Animals.ConsoleApp.csproj|c:\\users\\misha\\desktop\\animals.consoleapp\\animalscontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|c:\\users\\misha\\desktop\\animals.infrastructure\\migrations\\20250426103441_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|solutionrelative:migrations\\20250426103441_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|c:\\users\\misha\\desktop\\animals.infrastructure\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|solutionrelative:repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|c:\\users\\misha\\desktop\\animals.infrastructure\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|c:\\users\\misha\\desktop\\animals.infrastructure\\animals.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|solutionrelative:animals.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|c:\\users\\misha\\desktop\\animals.infrastructure\\animalscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|solutionrelative:animalscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AA273-D68F-41E3-BAE7-49A10F3384D8}|..\\Animals.ConsoleApp\\Animals.ConsoleApp.csproj|c:\\users\\misha\\desktop\\animals.consoleapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{100AA273-D68F-41E3-BAE7-49A10F3384D8}|..\\Animals.ConsoleApp\\Animals.ConsoleApp.csproj|c:\\users\\misha\\desktop\\animals.consoleapp\\animals.consoleapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|c:\\users\\misha\\desktop\\animals.infrastructure\\models\\animalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|solutionrelative:models\\animalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|c:\\users\\misha\\desktop\\animals.infrastructure\\models\\mammalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|solutionrelative:models\\mammalmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|c:\\users\\misha\\desktop\\animals.infrastructure\\models\\enclosuremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|solutionrelative:models\\enclosuremodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|c:\\users\\misha\\desktop\\animals.infrastructure\\models\\birdmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F620AF6-1FE1-4351-8E4E-38D50071648E}|Animals.Infrastructure.csproj|solutionrelative:models\\birdmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "animals.db",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.ConsoleApp\\animals.db",
+              "RelativeDocumentMoniker": "..\\Animals.ConsoleApp\\animals.db",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.ConsoleApp\\animals.db",
+              "RelativeToolTip": "..\\Animals.ConsoleApp\\animals.db",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF9SURBVDhPY2SAgsry0vsMDP8VYHxMmvHBn38Mgd3d3Rfgcv///4ezK8tL/v/69QsnBsk3NdS\u002BLy0tNUA2nAm3jZgyCYnJArzcHPuRDSHaAAEBAYbp06YwfP/\u002BXYCF6f9\u002BDOPRvbDnyJn/uw6dwuolkFqYARguuHr7AcOOgycZ3r3/wPD23XuG9dsPMJy7fAOnTzEMYGFiYvj27TuDiZ4mg6mBFsO3798YWFhw\u002BxRD5s/fvwy/f/9i\u002BPvvL8M/IPvP798Mf/78Jd4FP3/\u002BZGAEKj9w9BTDviMnGBiBnFNnzwNd8gOrIRguMNLVYAjzc2Pg4\u002BFi\u002BAu0\u002BdmLpwyPnjxm6OibyHDj5m0MQ3B6LtDLhcHT2Ybh44ePDG015Qwf3r1j4OBgI94AkMqvX4EBCLQit6iUgZWVmQE55eKMRmQr1FWVGSqK8hlsLC0YejvaGBQVMLMKwZTIzcXFEB4aTHwskJI3QGpBMQYGleXFwOzMiOlGrCb\u002Bf9De2asIkgIAmdPDqv5gx1IAAAAASUVORK5CYII=",
+              "WhenOpened": "2025-04-26T13:44:19.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CrudServiceAsync.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Repositories\\CrudServiceAsync.cs",
+              "RelativeDocumentMoniker": "Repositories\\CrudServiceAsync.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Repositories\\CrudServiceAsync.cs",
+              "RelativeToolTip": "Repositories\\CrudServiceAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:19:51.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICrudServiceAsync.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Repositories\\ICrudServiceAsync.cs",
+              "RelativeDocumentMoniker": "Repositories\\ICrudServiceAsync.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Repositories\\ICrudServiceAsync.cs",
+              "RelativeToolTip": "Repositories\\ICrudServiceAsync.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T12:18:55.978Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Repository.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Repositories\\Repository.cs",
+              "RelativeToolTip": "Repositories\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:49:21.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:48:16.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250426103441_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Migrations\\20250426103441_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250426103441_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Migrations\\20250426103441_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250426103441_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:34:41.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AnimalsContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.ConsoleApp\\AnimalsContextFactory.cs",
+              "RelativeDocumentMoniker": "..\\Animals.ConsoleApp\\AnimalsContextFactory.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.ConsoleApp\\AnimalsContextFactory.cs",
+              "RelativeToolTip": "..\\Animals.ConsoleApp\\AnimalsContextFactory.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T10:33:39.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Animals.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Animals.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Animals.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Animals.Infrastructure.csproj",
+              "RelativeToolTip": "Animals.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T10:24:21.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Animals.ConsoleApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.ConsoleApp\\Animals.ConsoleApp.csproj",
+              "RelativeDocumentMoniker": "..\\Animals.ConsoleApp\\Animals.ConsoleApp.csproj",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.ConsoleApp\\Animals.ConsoleApp.csproj",
+              "RelativeToolTip": "..\\Animals.ConsoleApp\\Animals.ConsoleApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-26T09:36:25.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.ConsoleApp\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\Animals.ConsoleApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.ConsoleApp\\appsettings.json",
+              "RelativeToolTip": "..\\Animals.ConsoleApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-26T09:34:58.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.ConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Animals.ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.ConsoleApp\\Program.cs",
+              "RelativeToolTip": "..\\Animals.ConsoleApp\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T09:32:47.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AnimalsContext.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\AnimalsContext.cs",
+              "RelativeDocumentMoniker": "AnimalsContext.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\AnimalsContext.cs",
+              "RelativeToolTip": "AnimalsContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:52:03.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnclosureModel.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Models\\EnclosureModel.cs",
+              "RelativeDocumentMoniker": "Models\\EnclosureModel.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Models\\EnclosureModel.cs",
+              "RelativeToolTip": "Models\\EnclosureModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:45:37.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BirdModel.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Models\\BirdModel.cs",
+              "RelativeDocumentMoniker": "Models\\BirdModel.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Models\\BirdModel.cs",
+              "RelativeToolTip": "Models\\BirdModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:44:55.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MammalModel.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Models\\MammalModel.cs",
+              "RelativeDocumentMoniker": "Models\\MammalModel.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Models\\MammalModel.cs",
+              "RelativeToolTip": "Models\\MammalModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:44:15.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AnimalModel.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Models\\AnimalModel.cs",
+              "RelativeDocumentMoniker": "Models\\AnimalModel.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Models\\AnimalModel.cs",
+              "RelativeToolTip": "Models\\AnimalModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:43:24.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Misha\\Desktop\\Animals.Infrastructure\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T08:40:27.898Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
