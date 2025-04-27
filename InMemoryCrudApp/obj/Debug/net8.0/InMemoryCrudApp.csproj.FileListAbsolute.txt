@@ -1,0 +1,14 @@
+C:\Users\Misha\Desktop\InMemoryCrudApp\bin\Debug\net8.0\InMemoryCrudApp.exe
+C:\Users\Misha\Desktop\InMemoryCrudApp\bin\Debug\net8.0\InMemoryCrudApp.deps.json
+C:\Users\Misha\Desktop\InMemoryCrudApp\bin\Debug\net8.0\InMemoryCrudApp.runtimeconfig.json
+C:\Users\Misha\Desktop\InMemoryCrudApp\bin\Debug\net8.0\InMemoryCrudApp.dll
+C:\Users\Misha\Desktop\InMemoryCrudApp\bin\Debug\net8.0\InMemoryCrudApp.pdb
+C:\Users\Misha\Desktop\InMemoryCrudApp\obj\Debug\net8.0\InMemoryCrudApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Misha\Desktop\InMemoryCrudApp\obj\Debug\net8.0\InMemoryCrudApp.AssemblyInfoInputs.cache
+C:\Users\Misha\Desktop\InMemoryCrudApp\obj\Debug\net8.0\InMemoryCrudApp.AssemblyInfo.cs
+C:\Users\Misha\Desktop\InMemoryCrudApp\obj\Debug\net8.0\InMemoryCrudApp.csproj.CoreCompileInputs.cache
+C:\Users\Misha\Desktop\InMemoryCrudApp\obj\Debug\net8.0\InMemoryCrudApp.dll
+C:\Users\Misha\Desktop\InMemoryCrudApp\obj\Debug\net8.0\refint\InMemoryCrudApp.dll
+C:\Users\Misha\Desktop\InMemoryCrudApp\obj\Debug\net8.0\InMemoryCrudApp.pdb
+C:\Users\Misha\Desktop\InMemoryCrudApp\obj\Debug\net8.0\InMemoryCrudApp.genruntimeconfig.cache
+C:\Users\Misha\Desktop\InMemoryCrudApp\obj\Debug\net8.0\ref\InMemoryCrudApp.dll
